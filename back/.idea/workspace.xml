@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e6a31a3-572a-453f-a0c5-476f1b1719aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pHp7p51rgG00WTOLThSAq8ZBPL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e6a31a3-572a-453f-a0c5-476f1b1719aa" name="Default Changelist" comment="" />
+      <created>1614849705192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614849705192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1614850042046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614850042046" />
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614850412174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614850412174" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614850731939">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614850731939" />
+    <state width="1237" height="271" key="GridCell.Tab.0.bottom" timestamp="1614873043751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614873043751" />
+    <state width="1237" height="271" key="GridCell.Tab.0.center" timestamp="1614873043751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.0.center/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614873043751" />
+    <state width="1237" height="271" key="GridCell.Tab.0.left" timestamp="1614873043751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.0.left/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614873043751" />
+    <state width="1237" height="271" key="GridCell.Tab.0.right" timestamp="1614873043751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.0.right/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614873043751" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1614850555420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614850555420" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1615807047245">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1615807047245" />
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614851769941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/-1024.-205.819.984@0.0.1280.680" timestamp="1614851769941" />
+  </component>
+</project>
